@@ -1,4 +1,4 @@
-L = ["Shreyansh\n", "for\n", "Shukla\n"]
+L = ["Akash\n", "for\n", "Shukla\n"]
 file1 = open('myfile.txt', 'w')
 file1.writelines(L)
 file1.close()
